@@ -1,15 +1,14 @@
 package org.jfqqqq.test.util;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.commons.cli.*;
-import org.jfqqqq.test.pojo.Arg;
+import org.jfqqqq.test.pojo.cmd_args_test.Arg;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 
-public class ParseUtil {
+public class CmdArgsParseUtil {
     private static ObjectMapper objectMapper = new ObjectMapper();
 
     public static Arg parse(String[] args) {

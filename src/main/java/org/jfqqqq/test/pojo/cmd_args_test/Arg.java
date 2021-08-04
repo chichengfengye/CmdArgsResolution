@@ -1,4 +1,4 @@
-package org.jfqqqq.test.pojo;
+package org.jfqqqq.test.pojo.cmd_args_test;
 
 public class Arg {
     private Integer age;

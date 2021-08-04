@@ -1,0 +1,26 @@
+age: 18
+say: hellp
+height: 180
+#sports: basketball,football,pingpongball  # not supported this way of writing
+sports: [basketball, football, pingpongball]
+foods:
+  - noodles
+  - hamburger
+#idols:                                   # not supported this way of writing
+#  idol:
+#    - name: Roger Federer
+#      height: 185
+#      gender: male
+#    - name: Steve Jobs
+#      height: 188
+#      gender: male
+idols:
+  - name: Roger Federer
+    height: 185
+    gender: male
+  - name: Steve Jobs
+    height: 188
+    gender: male
+teachers:
+  - { name: Ms. Liu, height: 165, gender: female}
+  - { name: Mr. Li, height: 174, gender: male}
