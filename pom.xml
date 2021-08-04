@@ -36,7 +36,7 @@
                     <archive>
                         <manifest>
                             <!--这里指定要运行的main类-->
-                            <mainClass>org.jfqqqq.test.App</mainClass>
+                            <mainClass>org.jfqqqq.test.ArgsLoadTest</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

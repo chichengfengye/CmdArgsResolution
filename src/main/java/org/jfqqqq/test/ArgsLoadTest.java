@@ -5,7 +5,7 @@ import org.jfqqqq.test.util.ParseUtil;
 
 //import java.util.Arrays;
 
-public class App {
+public class ArgsLoadTest {
     public static void main(String[] args) {
 //        System.out.println(Arrays.toString(args)); 输出为： [-age, 18, -say, hello, -height, 180]
 
