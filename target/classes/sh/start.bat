@@ -1,0 +1,1 @@
+java -jar jfqqq-jar-with-dependencies.jar -age 18 -say hello -height 180
